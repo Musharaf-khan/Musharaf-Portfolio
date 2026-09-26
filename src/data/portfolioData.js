@@ -71,7 +71,7 @@ export const experienceData = [
   {
     company: "Colorado Resilience",
     role: "Software Engineer (Full Stack)",
-    date: "Oct 2025 – Present",
+    date: "May 2025 – May 2026",
     location: "Remote",
     type: "Engineering",
     points: [
