@@ -1,10 +1,10 @@
 export const personalInfo = {
   name: "Musharaf Khan Pathan",
   role: "Software Engineer | CS @ Illinois Tech (graduating 2026)",
-  location: "Chicago, IL | F-1 OPT Ready",
+  location: "Chicago, IL",
   email: "mpathan2work@gmail.com",
-  github: "github.com/Apple-beep",
-  githubUrl: "https://github.com/Apple-beep",
+  github: "github.com/Musharaf-khan",
+  githubUrl: "https://github.com/Musharaf-khan",
   linkedIn: "linkedin.com/in/musharaf-khan-pathan",
   linkedInUrl: "https://linkedin.com/in/musharaf-khan-pathan",
   resumeUrl: "/resume.pdf",
@@ -54,7 +54,7 @@ export const quickCommands = [
     label: "GitHub Profile",
     hint: "G",
     type: "url",
-    target: "https://github.com/Apple-beep",
+    target: "https://github.com/Musharaf-khan",
     openInNewTab: true,
   },
   {
@@ -155,8 +155,8 @@ export const projectData = [
       "Resume screening workspace with explainable AI — ingests job descriptions, ranks candidates, detects hiring bias with counterfactual insights and audit trails.",
     impact: "⚡ Bias detection + fairness audits",
     tech: ["Python", "React", "NLP", "OpenAI API"],
-    link: "https://github.com/Apple-beep/hirelens",
-    github: "https://github.com/Apple-beep/hirelens",
+    link: "https://github.com/Musharaf-khan/hirelens",
+    github: "https://github.com/Musharaf-khan/hirelens",
     featured: true,
   },
   {
@@ -167,8 +167,8 @@ export const projectData = [
       "Firefox extension scanning URLs in real-time with green/yellow/red risk indicators. Tested on URLhaus malicious dataset achieving sub-900ms per scan.",
     impact: "⚡ 92% accuracy · 84% fewer dangerous clicks",
     tech: ["JavaScript", "Firefox Extension", "HTML5"],
-    link: "https://github.com/Apple-beep/CheckUrl-ext",
-    github: "https://github.com/Apple-beep/CheckUrl-ext",
+    link: "https://github.com/Musharaf-khan/CheckUrl-ext",
+    github: "https://github.com/Musharaf-khan/CheckUrl-ext",
     featured: false,
   },
   {
@@ -179,8 +179,8 @@ export const projectData = [
       "iOS app for visually impaired users with voice-to-text, AI plant care analysis, and on-device ML for offline privacy. WCAG 2.1 AA compliant.",
     impact: "⚡ 95% OCR accuracy · Apple WWDC",
     tech: ["Swift", "SwiftUI", "AVFoundation", "Vision"],
-    link: "https://github.com/Apple-beep/Projects",
-    github: "https://github.com/Apple-beep/Projects",
+    link: "https://github.com/Musharaf-khan/Projects",
+    github: "https://github.com/Musharaf-khan/Projects",
     featured: false,
   },
   {
@@ -203,8 +203,8 @@ export const projectData = [
       "Full CRUD system with OLAP analytics over Formula 1 racing data. Complex JOIN queries and optimized indexing for high-volume data retrieval.",
     impact: "⚡ 10K+ records with OLAP analytics",
     tech: ["Python", "MySQL", "SQL", "OLAP"],
-    link: "https://github.com/Apple-beep/f1-database-management-system",
-    github: "https://github.com/Apple-beep/f1-database-management-system",
+    link: "https://github.com/Musharaf-khan/f1-database-management-system",
+    github: "https://github.com/Musharaf-khan/f1-database-management-system",
     featured: false,
   },
   {
@@ -215,8 +215,8 @@ export const projectData = [
       "Implementation and comparison of Greedy Best-First and A* search algorithms with heuristic optimization for maze and grid traversal.",
     impact: "⚡ ~1000× speedup over brute force",
     tech: ["Python", "AI", "Algorithms"],
-    link: "https://github.com/Apple-beep/AI-Pathfinding-Search-Algorithms",
-    github: "https://github.com/Apple-beep/AI-Pathfinding-Search-Algorithms",
+    link: "https://github.com/Musharaf-khan/AI-Pathfinding-Search-Algorithms",
+    github: "https://github.com/Musharaf-khan/AI-Pathfinding-Search-Algorithms",
     featured: false,
   },
 ];
@@ -226,7 +226,6 @@ export const heroSkillBadges = ["Python", "React + Flask", "AI/ML", "AWS", "Swif
 export const aboutInfoChips = [
   "📍 Chicago, IL",
   "🎓 Graduating May 2026",
-  "💼 F-1 OPT Ready",
 ];
 
 export const statsData = [

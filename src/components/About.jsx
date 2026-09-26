@@ -13,7 +13,6 @@ const BIO_PARAGRAPH_2 =
 const INFO_BADGES = [
   { icon: MapPin, label: "Chicago, IL" },
   { icon: GraduationCap, label: "May 2026 · GPA 3.8" },
-  { icon: BriefcaseBusiness, label: "F-1 OPT Ready" },
   { icon: Star, label: "McKinsey Forward Scholar" },
   { icon: Award, label: "Apple WWDC Participant" },
 ];
